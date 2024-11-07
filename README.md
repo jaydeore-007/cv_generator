@@ -72,7 +72,7 @@ Here are some screenshots of the application in action:
 
 Watch a demo of the CV Generator App in action:
 
-![Video demo](./public/assests/CV%20Generator%20-%20Personal%20-%20Microsoft​%20Edge%202024-11-07%2022-10-36.mp4)
+![Video demo](./public/assests/CV%20Generator%20-%20Personal%20-%20Microsoft_%20Edge%202024-11-07%2022-10-36.mp4)
 
 ## Contributing
 
